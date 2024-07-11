@@ -2,14 +2,14 @@
 
 This project presents a web application built with Streamlit that leverages the power of deep learning for classifying rice pathologies. It aims to assist farmers, agricultural professionals, and researchers in identifying rice diseases efficiently using image recognition.
 
-# Key Features: #
+###  Key Features: 
 
 User-friendly Interface: Streamlit provides a simple and intuitive interface for uploading rice images and receiving classification results.
 Deep Learning Powered: The application utilizes a pre-trained VGG16 model to analyze images and predict potential rice pathologies.
 Quick and Easy Diagnosis: Users can obtain rapid classifications of rice diseases, facilitating early intervention and informed decision-making.
 This project contributes to the exploration of deep learning applications in agriculture, specifically for rice health monitoring.
 
-# Conclusion :#
+### Conclusion : 
 Future Work and Contributions
 
 This project lays the groundwork for further development and exploration. Potential areas for improvement include:
